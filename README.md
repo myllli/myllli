@@ -8,8 +8,7 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myllli&show_icons=true&theme=dracula)
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=myllli&theme=dracula&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=myllli&theme=dracula)
 
 
 🌱 Learning & Want to Learn
