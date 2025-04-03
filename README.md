@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFBDF9&height=80&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=DEB887&height=80&section=header)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=FFBDF9&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Minyong's+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=DEB887&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Minyong's+GitHub!)](https://git.io/typing-svg)
 
 
 ### 📊 GitHub Stats
